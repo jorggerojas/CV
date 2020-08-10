@@ -28741,7 +28741,7 @@ o=B.a19(2,!0,P.cN(0,800,0),C.ou,P.cN(0,0,3),o.b*0.5,C.n)
 r=n.a
 o=O.a1a(new E.Xz(r),r.length,o)
 r=F.aM(a,!1).a.a>620?n.b.length:n.c.length
-return M.bX(m,B.a20(H.b([new T.bv(new V.am(10,10,10,10),j,m),s,i,o,M.bX(m,B.a21(new E.XA(n.b,n.c),r,new E.XB()),m,m,m,300,new V.am(0,30,0,0),new V.am(5,0,5,0),m)],h)),m,m,m,l.b*0.6+10,m,m,k-50)},
+return M.bX(m,B.a20(H.b([new T.bv(new V.am(10,10,10,10),j,m),s,i,o,M.bX(m,B.a21(new E.XA(n.b,n.c),r,new E.XB()),m,m,m,300,new V.am(0,30,0,30),new V.am(5,0,5,0),m)],h)),m,m,m,l.b*0.6+10,m,m,k-50)},
 $S:28}
 E.Xx.prototype={
 $2:function(a,b){var s=null,r=b.b
