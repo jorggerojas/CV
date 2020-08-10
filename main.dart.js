@@ -28735,13 +28735,13 @@ p=T.eW(m,20,m)
 r=T.r4(m,m,C.bb,!0,m,new Q.cj(m,H.b([new Q.cj("Tel\xe9fono: ",m,B.bp(K.a2(a,!1).b,18,C.l)),new Q.cj(i.h(0,"phone"),m,B.bp(C.k,18,C.l))],r),m),C.ac,m,m,1,C.aP)
 o=L.bH("Social",m,m,B.bp(K.a2(a,!1).x,20,m),m)
 s=O.Kf(H.b([new T.bv(C.iM,q,m),p,new T.bv(C.iM,r,m),O.Kf(H.b([new A.hm(new E.Xx(),m)],h),new V.am(0,10,0,10),o)],h),new V.am(0,15,0,15),s)
-i=T.fg(M.bX(m,B.y0(new E.Xy(),J.bi(i.h(0,"languages"))),m,m,m,50,m,new V.am(50,0,50,0),m),m,m)
+i=T.fg(M.bX(m,B.y0(new E.Xy(),J.bi(i.h(0,"languages"))),m,m,m,50,m,new V.am(5,0,5,0),m),m,m)
 o=F.aM(a,!1).a
 o=B.a19(2,!0,P.cN(0,800,0),C.ou,P.cN(0,0,3),o.b*0.5,C.n)
 r=n.a
 o=O.a1a(new E.Xz(r),r.length,o)
 r=F.aM(a,!1).a.a>620?n.b.length:n.c.length
-return M.bX(m,B.a20(H.b([new T.bv(new V.am(10,10,10,10),j,m),s,i,o,M.bX(m,B.a21(new E.XA(n.b,n.c),r,new E.XB()),m,m,m,300,new V.am(0,30,0,0),new V.am(30,0,30,0),m)],h)),m,m,m,l.b*0.6+10,m,m,k-50)},
+return M.bX(m,B.a20(H.b([new T.bv(new V.am(10,10,10,10),j,m),s,i,o,M.bX(m,B.a21(new E.XA(n.b,n.c),r,new E.XB()),m,m,m,300,new V.am(0,30,0,0),new V.am(5,0,5,0),m)],h)),m,m,m,l.b*0.6+10,m,m,k-50)},
 $S:28}
 E.Xx.prototype={
 $2:function(a,b){var s=null,r=b.b
@@ -28757,8 +28757,8 @@ E.Xv.prototype={
 $0:function(){C.aH.nQ(window,J.aL(this.a,"link"),"_blank")},
 $S:0}
 E.Xy.prototype={
-$2:function(a,b){var s=null,r="languages",q=L.dg(C.oR,K.a2(a,!1).b,16),p=$.h5(),o=t.t
-return new T.bv(new V.am(0,5,0,5),T.dt(H.b([T.dt(H.b([q,L.bH(J.vg(J.aL(J.aL(p.h(0,r),b),"item"),": "),s,C.io,B.bp(K.a2(a,!1).b,18,s),s),L.bH(J.aL(J.aL(p.h(0,r),b),"level"),s,C.io,B.bp(C.k,18,C.aJ),s)],o),C.L,C.aO,C.H)],o),C.L,C.hD,C.H),s)},
+$2:function(a,b){var s=null,r="languages",q=L.dg(C.oR,K.a2(a,!1).b,15),p=$.h5(),o=t.t
+return new T.bv(new V.am(0,5,0,5),T.dt(H.b([T.dt(H.b([q,L.bH(J.vg(J.aL(J.aL(p.h(0,r),b),"item"),": "),s,C.io,B.bp(K.a2(a,!1).b,15,s),s),L.bH(J.aL(J.aL(p.h(0,r),b),"level"),s,C.io,B.bp(C.k,15,C.aJ),s)],o),C.L,C.aO,C.H)],o),C.L,C.hD,C.H),s)},
 $C:"$2",
 $R:2,
 $S:106}
@@ -28770,7 +28770,7 @@ $R:2,
 $S:105}
 E.XA.prototype={
 $2:function(a,b){var s=null,r=L.dg(C.oP,K.a2(a,!1).x,10),q=F.aM(a,!1).a.a>620?this.a[b]:this.b[b]
-return Q.MA(s,r,s,s,L.bH(q,s,s,B.bp(C.k,F.aM(a,!1).a.a>620?18:20,s),s),s)},
+return Q.MA(s,r,s,s,L.bH(q,s,s,B.bp(C.k,F.aM(a,!1).a.a>620?18:15,s),s),s)},
 $S:48}
 E.XB.prototype={
 $2:function(a,b){return C.oz},
